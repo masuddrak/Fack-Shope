@@ -1,4 +1,23 @@
+.product{
+    border-radius: 10px;
+    width: 300px;
+    color: #fff;
+    position: relative;
+}
+
 img{
+    width: 100%;
     width: 200px;
-    height: 220px;
+    height: 200px;
+    border-radius: 10px;
+}
+h3{
+    font-size: 20px;
+}
+.all-btn{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    bottom: 0;
 }
